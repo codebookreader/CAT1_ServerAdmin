@@ -1,0 +1,39 @@
+.form{
+    position: absolute;
+    font-family: poppins;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    background-color: silver;
+    width: 30%;
+    margin-left: 35%;
+    top: 50px;
+    background-color:#fff;
+}
+body {
+background-image: url('adminimage.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+*{
+    text-align: center;
+}
+.h2{
+    background-color: #7d2ae8;
+    height: 50px;
+    top:-500px;
+}
+.form_button{
+    background: #7d2ae8;
+    width : 100px;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+.h1{
+    background-color: #7d2ae8;
+    height: 50px;
+}
+.others{
+    font-size: 12px;
+}
